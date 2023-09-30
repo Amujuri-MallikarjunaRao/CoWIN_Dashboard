@@ -1,0 +1,25 @@
+/* Write your CSS here */
+.heading-logo {
+  display: flex;
+
+  justify-content: flex-start;
+  align-items: center;
+  color: #2cc6c6;
+}
+.title {
+  color: #cbd5e1;
+}
+.dark {
+  background-color: #161625;
+  background-size: contain;
+  min-height: 100vh;
+}
+.container {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+.logo {
+  width: 50px;
+  padding-right: 10px;
+}
